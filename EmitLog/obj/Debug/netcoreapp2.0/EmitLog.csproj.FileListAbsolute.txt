@@ -1,0 +1,11 @@
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.deps.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.runtimeconfig.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.runtimeconfig.dev.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\bin\Debug\netcoreapp2.0\EmitLog.pdb
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.csprojAssemblyReference.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.csproj.CoreCompileInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.AssemblyInfoInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.AssemblyInfo.cs
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\EmitLog\obj\Debug\netcoreapp2.0\EmitLog.pdb

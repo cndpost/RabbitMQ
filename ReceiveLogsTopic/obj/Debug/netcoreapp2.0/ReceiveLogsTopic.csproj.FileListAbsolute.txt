@@ -1,0 +1,10 @@
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.0\ReceiveLogsTopic.deps.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.0\ReceiveLogsTopic.runtimeconfig.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.0\ReceiveLogsTopic.runtimeconfig.dev.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.0\ReceiveLogsTopic.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\bin\Debug\netcoreapp2.0\ReceiveLogsTopic.pdb
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.0\ReceiveLogsTopic.csproj.CoreCompileInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.0\ReceiveLogsTopic.AssemblyInfoInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.0\ReceiveLogsTopic.AssemblyInfo.cs
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.0\ReceiveLogsTopic.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\ReceiveLogsTopic\obj\Debug\netcoreapp2.0\ReceiveLogsTopic.pdb

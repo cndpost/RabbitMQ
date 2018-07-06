@@ -1,0 +1,11 @@
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.deps.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.runtimeconfig.dev.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\bin\Debug\netcoreapp2.0\RPCClient.pdb
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csprojAssemblyReference.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.csproj.CoreCompileInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfoInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.AssemblyInfo.cs
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\RPCClient\obj\Debug\netcoreapp2.0\RPCClient.pdb

@@ -1,0 +1,11 @@
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\bin\Debug\netcoreapp2.0\Receive.deps.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\bin\Debug\netcoreapp2.0\Receive.runtimeconfig.dev.json
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\bin\Debug\netcoreapp2.0\Receive.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\bin\Debug\netcoreapp2.0\Receive.pdb
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfoInputs.cache
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.AssemblyInfo.cs
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.dll
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.pdb
+C:\Users\John.Xu\source\repos\RabbitMQTutorial\Receive\obj\Debug\netcoreapp2.0\Receive.csprojAssemblyReference.cache
